@@ -36,6 +36,7 @@ public class D extends null implements I, C, F {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
 
+<<<<<<< HEAD
     public int af() {
         return -1;
     }
@@ -47,4 +48,9 @@ public class D extends null implements I, C, F {
     public float ff() {
         return 3.14;
     }
+=======
+    public void ab() {
+        System.out.println("\n");
+    }
+>>>>>>> origin/8b
 }
