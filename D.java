@@ -39,8 +39,11 @@ public class D extends null implements I, C, F {
     public void ab() {
         System.out.println("\n");
     }
+<<<<<<< HEAD
 
     public float ff() {
         return 3.14;
     }
+=======
+>>>>>>> origin/3b
 }
