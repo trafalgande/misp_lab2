@@ -36,38 +36,24 @@ public class D extends null implements I, C, F {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
 
-<<<<<<< HEAD
-    public void ab() {
-        return;
-=======
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
->>>>>>> origin/9b
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public void ab() {
+        return;
     }
 
     public float ff() {
         return 3.14;
     }
 
-<<<<<<< HEAD
-    public int[] ii() {
-        return new int[]{4, 3, 2, 1};
-    }
-
     public double ad() {
         return 11.09;
-=======
-    public void ab() {
-        System.out.println("\n");
-    }
-
-    public int af() {
-        return -1;
-    }
-
-    public java.util.Set<Integer> ll() {
-        return new java.util.HashSet<Integer>;
->>>>>>> origin/9b
     }
 
     public int cc() {
@@ -78,31 +64,23 @@ public class D extends null implements I, C, F {
         return new java.util.Random().nextInt();
     }
 
-<<<<<<< HEAD
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
     }
 
     public int ae() {
         return java.lang.Math.abs(-6);
-=======
-    public java.util.Random mm() {
-        return new java.util.Random();
-    }
-
-    public double ad() {
-        return 11.09;
->>>>>>> origin/9b
     }
 
     public Object gg() {
         return new java.util.Random();
     }
-<<<<<<< HEAD
 
-    public java.util.Set<Integer> ll() {
-        return new java.util.LinkedList<Integer>;
+    public double ee() {
+        return 500.100;
     }
-=======
->>>>>>> origin/9b
+
+    public Object pp() {
+        return this;
+    }
 }
