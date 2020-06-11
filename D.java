@@ -35,16 +35,4 @@ public class D implements I, C, F {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
-
-    public void ab() {
-        System.out.println("\n");
-    }
-
-    public float ff() {
-        return 3.14;
-    }
-
-    public int af() {
-        return -1;
-    }
 }
