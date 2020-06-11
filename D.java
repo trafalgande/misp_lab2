@@ -35,8 +35,4 @@ public class D implements I, C, F {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
-
-    public void ab() {
-        System.out.println("\n");
-    }
 }
