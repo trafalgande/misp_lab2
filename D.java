@@ -1,4 +1,4 @@
-public class D implements I, C, F {
+public class D extends null implements I, C, F {
 
     private byte k = 1;
 
@@ -38,5 +38,9 @@ public class D implements I, C, F {
 
     public void ab() {
         System.out.println("\n");
+    }
+
+    public float ff() {
+        return 3.14;
     }
 }
