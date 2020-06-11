@@ -1,4 +1,4 @@
-public class D implements I, C, F {
+public class D extends null implements I, C, F {
 
     private byte k = 1;
 
@@ -36,12 +36,12 @@ public class D implements I, C, F {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
 
-    public void ab() {
-        System.out.println("\n");
-    }
-
     public float ff() {
         return 3.14;
+    }
+
+    public void ab() {
+        System.out.println("\n");
     }
 
     public int af() {
@@ -50,5 +50,17 @@ public class D implements I, C, F {
 
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
+    }
+
+    public int cc() {
+        return 39;
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
     }
 }
