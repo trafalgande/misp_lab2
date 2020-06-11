@@ -39,4 +39,8 @@ public class D implements I, C, F {
     public void ab() {
         System.out.println("\n");
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }
