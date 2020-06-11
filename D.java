@@ -36,6 +36,7 @@ public class D extends null implements I, C, F {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
 
+<<<<<<< HEAD
     public float ff() {
         return 3.14;
     }
@@ -63,4 +64,23 @@ public class D extends null implements I, C, F {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+=======
+<<<<<<< HEAD
+    public int af() {
+        return -1;
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+=======
+    public void ab() {
+        System.out.println("\n");
+    }
+>>>>>>> origin/8b
+>>>>>>> origin/7b
 }
