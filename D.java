@@ -36,6 +36,10 @@ public class D extends null implements I, C, F {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
 
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
     public float ff() {
         return 3.14;
     }
@@ -56,15 +60,19 @@ public class D extends null implements I, C, F {
         return 39;
     }
 
-    public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
-    }
-
     public int hh() {
         return new java.util.Random().nextInt();
     }
 
     public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public double ad() {
+        return 11.09;
+    }
+
+    public Object gg() {
         return new java.util.Random();
     }
 }
