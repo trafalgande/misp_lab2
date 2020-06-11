@@ -43,4 +43,8 @@ public class D implements I, C, F {
     public float ff() {
         return 3.14;
     }
+
+    public int af() {
+        return -1;
+    }
 }
