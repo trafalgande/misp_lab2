@@ -37,13 +37,42 @@ public class D extends null implements I, C, F {
     }
 
     public void ab() {
-        System.out.println("\n");
+        return;
     }
-<<<<<<< HEAD
 
     public float ff() {
         return 3.14;
     }
-=======
->>>>>>> origin/3b
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public double ad() {
+        return 11.09;
+    }
+
+    public int cc() {
+        return 39;
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }
