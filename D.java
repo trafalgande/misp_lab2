@@ -83,4 +83,16 @@ public class D extends null implements I, C, F {
     public Object pp() {
         return this;
     }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
 }
